@@ -24,9 +24,11 @@ git clone
 
 cd rust-api-fetcher
 
-3. Run the project:
+2. Run the project:
+   
      cargo run
-4. Expected Output: 
+3. Expected Output:
+   
 Fetching a random fact... ------------------------------------------------
 
 RUST FACT FETCHER SAYS: The only letter that doesn't appear on the periodic table is J
