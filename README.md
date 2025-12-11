@@ -21,10 +21,12 @@ Features
 1.	Clone the repo: 
 git clone
 (https://github.com/your-username/rust-api-fetcher.git)
+
 cd rust-api-fetcher
 
-2. Run the project:
+3. Run the project:
      cargo run
-3. Expected Output: 
-Fetching a random fact... ------------------------------------------------ 
+4. Expected Output: 
+Fetching a random fact... ------------------------------------------------
+
 RUST FACT FETCHER SAYS: The only letter that doesn't appear on the periodic table is J
