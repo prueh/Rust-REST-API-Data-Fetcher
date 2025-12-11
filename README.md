@@ -17,12 +17,16 @@ Features
  ● Crates: reqwest, serde, serde_json 
 
  Quick Start
+
+ Prerequisites
+
+ install Rust and Cargo and confirm their versions
  
 1.	Clone the repo: 
 git clone
-(https://github.com/your-username/rust-api-fetcher.git)
+(https://github.com/prueh/rust-api-fetcher.git)
 
-cd rust-api-fetcher
+  cd rust-api-fetcher
 
 2. Run the project:
    
