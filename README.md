@@ -1,6 +1,6 @@
 Rust REST API Data Fetcher
 
-Rust REST API Data Fetcher is a minimal, self-contained Rust program that retrieves data from public REST APIs and prints it to the terminal. The project demonstrates idiomatic data handling in Rust, focusing on HTTP requests and JSON parsing without the complexity of asynchronous runtimes. It was built to demonstrate rapid technology mastery using Generative AI.  
+Rust REST API Data Fetcher is a minimal, self-contained Rust program that retrieves data from public REST APIs and prints it to the terminal. The project demonstrates idiomatic data handling in Rust, focusing on HTTP requests and JSON parsing without the complexity of asynchronous runtimes. It is built to demonstrate rapid technology mastery using Generative AI.  
 
 Features
 
